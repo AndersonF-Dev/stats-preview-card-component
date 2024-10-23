@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
-Esta é uma solução para o [Desafio da página componente de cartão de visualização NFT no Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
+Esta é uma solução para o [Desafio do componente do cartão de visualização de estatísticas no Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
 
 
 ### Screenshot
