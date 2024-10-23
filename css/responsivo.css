@@ -55,8 +55,10 @@
     .conteiner .img-capa {
         background: url('../images/image-header-mobile.jpg') center center no-repeat;
         background-size: cover;
+
         max-width: 340px;
         height: 229px;
+        
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
         border-bottom-right-radius: 0;
@@ -75,13 +77,16 @@
         text-align: center;
         gap: 0;
         margin: 40px 0;
-        /* margin-top: 40px; */
         
     }
 
     .conteiner .stat span {
         margin-bottom: 20px;
     }
-
-    
 } 
+
+@media (max-width: 770px) {
+    .conteiner {
+        margin-top: 30%;
+    }
+}
